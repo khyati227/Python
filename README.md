@@ -1,0 +1,1 @@
+Talabat is a Python-based application designed for ordering fast food. It provides users with a menu of options, allowing them to select and add items to their virtual cart. Once the selection process is complete, the program calculates the total cost of the order. It then prompts the user to enter delivery details and select a preferred payment method.
